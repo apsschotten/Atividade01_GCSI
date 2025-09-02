@@ -1,2 +1,4 @@
 *Nome do Projeto* | Idealização
 Projeto de GCSI | Ana Paula dos Santos Schotten | INFO 6B
+
+Neste projeto...
